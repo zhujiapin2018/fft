@@ -1,0 +1,1 @@
+cmd='C:/Program Files/CMake/bin/cmake.exe;-DSDKCONFIG=D:/esp32/src/esp32-fft/sdkconfig;-DIDF_PATH=D:/esp32/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=C:\Program Files\python3.7\python.exe;-DEXTRA_COMPONENT_DIRS=D:/esp32/esp-idf/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
